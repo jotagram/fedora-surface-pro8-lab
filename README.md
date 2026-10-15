@@ -6,7 +6,7 @@ Reference Repository: https://github.com/linux-surface/linux-surface/wiki/Surfac
 
 After many years of working with Windows systems, I decided to build hands-on Linux experience by using Linux as my primary operating system in daily life.
 
-The goal of this project is not only to learn Linux administration, but also to document real-world challenges, troubleshooting steps, and lessons learned during the migration process.
+The goal of this project is not only to learn Linux administration, but also to document problems along the way, troubleshooting steps and so on.
 
 ## Why this project?
 
